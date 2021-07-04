@@ -1,6 +1,6 @@
 # Bazar-Pro-Issues-and-Feature-request
 
-Submit your issue of (https://material-ui.com/store/items/bazar-pro-react-ecommerce-template/)[Bazar Pro]
+Submit your issue of [Bazar Pro](https://material-ui.com/store/items/bazar-pro-react-ecommerce-template/)
 
 
 ## Feature Request
