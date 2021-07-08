@@ -4,4 +4,4 @@ Submit your issue of [Bazar Pro](https://material-ui.com/store/items/bazar-pro-r
 
 
 ## Feature Request
-We're not obliged to add you requested feature, but if your requested feature add value to the template and help other users we'll definitely consider your request.
+If your requested feature adds value to the template and helps other users we'll definitely consider your request.
