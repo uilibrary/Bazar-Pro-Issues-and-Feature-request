@@ -3,5 +3,9 @@
 Submit your issue of [Bazar Pro](https://material-ui.com/store/items/bazar-pro-react-ecommerce-template/)
 
 
-## Feature Request
-If your requested feature adds value to the template and helps other users we'll definitely consider your request.
+## Changelog
+* Jul 1, 2021
+** Initial release
+* Aug 5, 2021
+** Fixed dashborad mobile navigation
+
